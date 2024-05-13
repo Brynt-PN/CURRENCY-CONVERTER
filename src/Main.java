@@ -30,7 +30,7 @@ public class Main {
                 System.out.println("""
                     ****************************Opcion invalida ingresa una nueva***************************
                     1 -> SI
-                    2 -> NO""");
+                    2 -> NO """);
                 opt = scanner.nextInt();
             }
         }while (opt == 1);
